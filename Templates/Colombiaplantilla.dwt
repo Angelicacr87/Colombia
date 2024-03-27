@@ -1,0 +1,52 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Colombia</title>
+<!-- TemplateEndEditable -->
+<style type="text/css">
+body,td,th {
+	font-family: "Comic Sans MS", cursive;
+	color: #0F0;
+}
+body {
+	background-color: #00F;
+	color: #FFF;
+}
+</style>
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<table width="850" border="1">
+  <tr>
+    <td><div align="center"><img src="../Imágenes/th.jpeg" width="166" height="179" alt="Colombia" /></div></td>
+  </tr>
+  <tr>
+    <td><div align="center">
+      <h1>COLOMBIA </h1>
+    </div></td>
+  </tr>
+  <tr>
+    <td height="157"><h3 align="center">Colombia cuenta con 6 regiones naturales, la más poblada es la región Andina, pero la segunda más grande; la más grande es la Amazónica, la tercera más grande es la región Orinoquía, seguida por la región Caribe y la región Pacífica y la región Insular es la más pequeña.</h3></td>
+  </tr>
+</table>
+<table width="850" border="1">
+  <tr>
+    <td><div align="center"><a href="../Caribe.html">Región Caribe</a></div></td>
+    <td><div align="center"><a href="../Andina.html">Región Andina</a></div></td>
+    <td><div align="center"><a href="../Pacífica.html">Región Pacífica</a></div></td>
+    <td><div align="center"><a href="../Orinoquía.html">Región Orinoquía </a></div></td>
+    <td><div align="center"><a href="../Amazonía.html">Región Amazónica</a></div></td>
+    <td><p align="center"><a href="../Insular.html">Región Insular</a></p></td>
+  </tr>
+</table>
+<table width="850" border="1">
+  <tr>
+    <td><!-- TemplateBeginEditable name="Editable" -->Editable<!-- TemplateEndEditable --></td>
+  </tr>
+</table>
+</body>
+</html>
